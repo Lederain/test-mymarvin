@@ -9,5 +9,5 @@ run:
 clean:
 	echo "clean"
 
-test_run:
-	echo "test_run"
+tests_run:
+	echo "tests_run"
