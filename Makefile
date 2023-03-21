@@ -1,13 +1,13 @@
 all:
-        echo "make"
+	echo "make"
 fclean:
-        echo "fclean"
+	echo "fclean"
 
 run:
-        echo "run"
+	echo "run"
 
 clean:
-        echo "clean"
+	echo "clean"
 
 test_run:
-        echo "test_run"
+	echo "test_run"
